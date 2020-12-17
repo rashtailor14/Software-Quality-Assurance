@@ -1,0 +1,59 @@
+Software Testing:
+
+1) Blackbox testing: When the software tester test the website without knowing the code , its called black box testing.
+
+Types:
+
+- Functional testing: Done by software tester
+- Non functional testing: Such as performance, Reliability, usability. ex. How many user simanteniosly use the website
+- Regression Testing: When there is some change in existing application , the small change can affect the working of the application. So regression testing is something where tester checks the exiting software. to make sure evrything works fine
+
+Functional Testing 
+- Tester tests how well the system perfoms
+- Functional Testing is based on client requirements
+- Validate the behavior of an application
+- Covers Unit testing, integration testing, smoke testing, sanity testing, regression testing
+- Means how is your system is doing
+
+Non-functional Testing
+- Tester tests how well the system responds.
+- Non-functional testing is based on client expectations
+- Validate the performance of an application
+- Covers performance testing, Volume testing, security testing, installation testing
+- Means how well your system is doing
+
+Functional & Non Functional Testing Options:
+1) QA Process design
+2) Network testing
+3) Usability Testing
+4) Platform Tesing 
+5) Migration Testing
+6) Mobile Tesing
+7) Security Testing
+8) Load Testing
+9) Compatibility Testing
+10) Web Service Testing
+11) Configuration Testing
+12) User Acceptance Testing
+13) Continuous Testing
+14) Automation Testing
+15) Regression Testing
+16) System Integration Testing
+
+
+Blackbox Testing Techniques:
+Equivalence class testing: 
+Boundary Value Testing
+Decision Table Testing  
+State Transition Testing
+Use case Testing
+
+WhiteBox testing Techniques:
+Unit Testing
+Statement Testing
+
+Test Coverage: Means that you'll spend a certain amount of time on a function to test and cover most critical parts to be sure that no bugs will be delivered to customers.
+
+Blackbox Testing is a software testing methond in which the internal structure/ design/ implementation of the item being tested is NOT known to the tester
+
+Whitebox Testing is a software testing methong in which the internal structure/design/implementation of the item being tested is known to the tester.
